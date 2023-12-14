@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 const RealState = () => {
   return (
     <div className='bg-neutral-900 flex flex-col'>

@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 const Page = () => {
   return (
     <div className='bg-zinc-900 flex flex-col pt-12'>
@@ -56,7 +57,7 @@ const Page = () => {
                   solutions that empower individuals and businesses to achieve
                   their financial goals. We are committed to delivering
                   personalized and innovative services that prioritize our
-                  customers' needs.
+                  customers needs.
                 </div>{' '}
                 <div className='text-zinc-900 text-lg leading-7 whitespace-nowrap items-stretch bg-lime-400 justify-center mt-12 px-8 py-5 rounded-[82px] max-md:mt-10 max-md:px-5'>
                   Open Account

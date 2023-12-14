@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 const saas = () => {
   return (
     <div className='bg-white flex flex-col items-center pt-12'>
